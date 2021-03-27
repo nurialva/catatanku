@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Selamat Datang"
-date:   2021-03-27 13:53
+date:   2021-03-26 13:53
 categories: catatan
 ---
 <p>Aku kenal Jekyll sekitar tahun 2017, pas pertama kali kenalan sama GitHub. Hingga saat ini, sangat sering berkomunikasi dengan GitHub tetapi
