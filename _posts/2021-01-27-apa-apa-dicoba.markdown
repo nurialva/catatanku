@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Apa-apa Dicoba"
-date:   2021-01-27 08:53:48 +0700
+date:   2021-01-27 08:53
 categories: catatan
 ---
 Setelah kesana-keari akhirnya ketemu lagi sama yang namanya, "JEKYLL".
