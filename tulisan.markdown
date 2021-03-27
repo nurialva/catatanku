@@ -4,6 +4,11 @@ title: Tulisan
 permalink: /tulisan/
 ---
 
-[site.posts]
+
+
+{% for post in site.posts %}
+{% include JB/post_content %}
+{% endfor %}
+
 
 [jekyll-organization]: https://github.com/jekyll
