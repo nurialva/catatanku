@@ -54,7 +54,7 @@ if ( is_dir ( ".git") ) {
 		$content = $_POST['content'];
 		$category = $_POST['category'];
 		$filename = date('Y-m-d')."-".strtolower ( str_replace (" " , "-" , $title ) ) . ".markdown";
-		$date = date('Y-m-d h:i:s');
+		$date = gmdate('Y-m-d h:i:s');
 
 	$fc = 
 "---
