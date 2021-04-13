@@ -1,0 +1,7 @@
+---
+layout: post
+title: Hanya Karena
+date: 2021-04-13 01:54:44
+categories: catatan-programmer
+---
+<p>Niatnya mau tak bikin agak puitis gitu biar lebih ngeh. Tapi ya apa, bosen jadinya kalo malah bikin puisi, wkwkwk. So, berikut catatan yang bisa saya tampilkan seputar “hanya karena” dalam dunia programming.</p><p>Aku pernah ngobrol sama tukang bonsai, katanya mungkin gila buat orang yang gak suka bonsai terus bela-belain ngerogoh goceh buat beli pohon kecil yang harganya bisa berkali-kali lipat dari pohon jati yang siap dijadiin furnitur rumah. Tapi karena hobinya disitu, ya terus mau apa?&nbsp;</p><p>Kadang hobi enggak ada bedanya sama cinta. Kayak misalnya, “hanya karena bonsai sebatang, si bodok rela menjual sapi untuk membelinya". Is that amazing? Kelihatannya sepele, padahal that's all, everything, karena beda kacamata orang yang lagi bucin sama sebaliknya.</p><p>Programming itu gampang-gampang susah, atau banyak susahnya timbang gampangnya. Harus serba teliti, penasaran dan terus mencoba. Sebab, hanya karena satu karakter, sebuah program bisa tidak berjalan semestinya, hanya satu file, sebuah program bisa bikin otak online semaleman, hanya karena fungsi yang salah dipanggil, bisa jadi error-nya dimana-mana.</p><p>Programmer itu banyak, programmer yang baik itulah yang gak banyak. Semoga dapat menjadi programmer yang baik, yang hidup untuk menyelesaikan masalah publik, bukan cuma pribadi saja.</p>
