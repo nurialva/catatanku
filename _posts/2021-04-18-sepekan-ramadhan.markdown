@@ -1,0 +1,7 @@
+---
+layout: post
+title: Sepekan Ramadhan
+date: 2021-04-18 11:30:36
+categories: gado-gado
+---
+<p>Udah sepekan Ramadhan, liburannya udah usai, dan besok “Back to Work” buat mantengin kodingan lagi kembali pada ini-itu, tapi enaknya, minggu libur ramadhan ini benar-benar rest pikiran untuk tidak ngotak-ngatik kode, semua kodingan udah dipush ke Github dan beberapa ada yang di-arsip ke lokal, beberapa planning untuk Syawal nanti, insyaallah, bakal nyiapin buat launching ADM-nya madrasah.</p><p>Anyway, kemarin rencana mau nulis teknis-teknis di blog, berhubung sekarang pas-pas ramadhan, gajadi dah. Tapi, ya apa, akhir-akhir ini bener-bener rarely online banget, debugging bisa dari jam 8 sampek jam 1 siang, wkwkwk. Some kesibukan kecil-kecilan yang bener-bener make me alive. Rencana lain yang belum terealisasikan seperti mindahin postingan dari Blogspot ke Jekyll ini.</p><p>Oiya, sekedar bonus untuk teknis, kemarin aku iseng nginstall Environtment-nya Plasma di laptop, eh gak taunya malah setelan grafis gak cocok, emang aku belum ngecek konfigurasi grafis apa yang dipakek Deepin sehingga pas sama laptop Baytrail-ku ini, dan akhirnya kulepas tuh Environtment.</p><p>But, an error happened. Ketika aku nyoba ngaktifin Effect tampilannya, malah gak bisa, setelah googling sana, googling sini, masalahnya cuma satu, nguba kwin ~/.config/kwinrc jadi ~/.config/kwinrc.backup,&nbsp;</p><p>setelah itu, lanjoot .. Just that!</p>
