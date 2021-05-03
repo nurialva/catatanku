@@ -4,6 +4,8 @@ title: Saya
 permalink: /saya/
 ---
 
+<img src='https://raw.githubusercontent.com/nurialva/catatanku/master/static/IMG_2588.JPG' style='width:200px;' />
+<p>Itu aku pas minta difotoin</p>
 <p>Salam kenal, aku suka nulis, nulis apa aja yang penting berwujud tulisan. Emang ada yang bukan tulisan? Adalah, kayak tulisan takdir, wkwkwk. Maap, gak lucu,
 garing, aku lama di pesantren, dan pesantren mengajarkanku banyak hal, mulai dari a sampek z, 
 aku paling seneng pelajaran eksakta, kayak fisika, kimia, biologi dls. disamping itu, aku lebih milih IPS timbang IPA pas seleksi penjurusan,
